@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\UniveritySystem\obj\Debug\UniveritySystem.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\UniveritySystem\obj\Debug\UniveritySystem.Form1.resources
+C:\Users\USER\source\repos\UniveritySystem\obj\Debug\UniveritySystem.Properties.Resources.resources
+C:\Users\USER\source\repos\UniveritySystem\obj\Debug\UniveritySystem.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\UniveritySystem\obj\Debug\UniveritySystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\UniveritySystem\bin\Debug\UniveritySystem.exe.config
+C:\Users\USER\source\repos\UniveritySystem\bin\Debug\UniveritySystem.exe
+C:\Users\USER\source\repos\UniveritySystem\bin\Debug\UniveritySystem.pdb
+C:\Users\USER\source\repos\UniveritySystem\obj\Debug\UniveritySystem.exe
+C:\Users\USER\source\repos\UniveritySystem\obj\Debug\UniveritySystem.pdb
+C:\Users\USER\source\repos\UniveritySystem\obj\Debug\UniveritySystem.Form2.resources
+C:\Users\USER\source\repos\UniveritySystem\obj\Debug\UniveritySystem.Form3.resources
+C:\Users\USER\source\repos\UniveritySystem\obj\Debug\UniveritySystem.Form4.resources
