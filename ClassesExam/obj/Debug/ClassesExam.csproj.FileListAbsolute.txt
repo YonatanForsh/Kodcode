@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\ClassesExam\bin\Debug\ClassesExam.exe.config
+C:\Users\USER\source\repos\ClassesExam\bin\Debug\ClassesExam.exe
+C:\Users\USER\source\repos\ClassesExam\bin\Debug\ClassesExam.pdb
+C:\Users\USER\source\repos\ClassesExam\obj\Debug\ClassesExam.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ClassesExam\obj\Debug\ClassesExam.Form1.resources
+C:\Users\USER\source\repos\ClassesExam\obj\Debug\ClassesExam.Properties.Resources.resources
+C:\Users\USER\source\repos\ClassesExam\obj\Debug\ClassesExam.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ClassesExam\obj\Debug\ClassesExam.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ClassesExam\obj\Debug\ClassesExam.exe
+C:\Users\USER\source\repos\ClassesExam\obj\Debug\ClassesExam.pdb

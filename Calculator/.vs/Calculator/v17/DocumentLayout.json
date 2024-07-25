@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\_Webiks\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D95328E8-C5CE-4F9C-8B77-08ABB1DFC93A}|..\\Employees\\Employees.csproj|c:\\users\\user\\desktop\\_webiks\\employees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95328E8-C5CE-4F9C-8B77-08ABB1DFC93A}|..\\Employees\\Employees.csproj|c:\\users\\user\\desktop\\_webiks\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95328E8-C5CE-4F9C-8B77-08ABB1DFC93A}|..\\Employees\\Employees.csproj|c:\\users\\user\\desktop\\_webiks\\employees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBCD19E-D2B9-4B06-8073-40DB24A213C0}|Calculator.csproj|c:\\users\\user\\desktop\\_webiks\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBCD19E-D2B9-4B06-8073-40DB24A213C0}|Calculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBCD19E-D2B9-4B06-8073-40DB24A213C0}|Calculator.csproj|c:\\users\\user\\desktop\\_webiks\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFBCD19E-D2B9-4B06-8073-40DB24A213C0}|Calculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\_Webiks\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\_Webiks\\Calculator\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:42:12.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\_Webiks\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\_Webiks\\Calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:42:05.05Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\_Webiks\\Employees\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Employees\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\_Webiks\\Employees\\Form1.cs*",
+              "RelativeToolTip": "..\\Employees\\Form1.cs*",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAmwM4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:14:37.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\_Webiks\\Employees\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Employees\\Employee.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\_Webiks\\Employees\\Employee.cs*",
+              "RelativeToolTip": "..\\Employees\\Employee.cs*",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:47:05.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\_Webiks\\Employees\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Employees\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\_Webiks\\Employees\\Form1.cs [Design]*",
+              "RelativeToolTip": "..\\Employees\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:20:42.403Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Clock_time\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9600C4B1-E6B4-406A-A870-8E92D220CA1A}|..\\Shabbat\\Shabbat_host.csproj|c:\\users\\user\\source\\repos\\shabbat\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9600C4B1-E6B4-406A-A870-8E92D220CA1A}|..\\Shabbat\\Shabbat_host.csproj|c:\\users\\user\\source\\repos\\shabbat\\hostmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9600C4B1-E6B4-406A-A870-8E92D220CA1A}|..\\Shabbat\\Shabbat_host.csproj|c:\\users\\user\\source\\repos\\shabbat\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9600C4B1-E6B4-406A-A870-8E92D220CA1A}|..\\Shabbat\\Shabbat_host.csproj|c:\\users\\user\\source\\repos\\shabbat\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9600C4B1-E6B4-406A-A870-8E92D220CA1A}|..\\Shabbat\\Shabbat_host.csproj|c:\\users\\user\\source\\repos\\shabbat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9600C4B1-E6B4-406A-A870-8E92D220CA1A}|..\\Shabbat\\Shabbat_host.csproj|c:\\users\\user\\source\\repos\\shabbat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BC41A9-C3A8-4D44-B15C-CB36EE060E47}|Clock_time.csproj|c:\\users\\user\\source\\repos\\clock_time\\targil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BC41A9-C3A8-4D44-B15C-CB36EE060E47}|Clock_time.csproj|solutionrelative:targil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BC41A9-C3A8-4D44-B15C-CB36EE060E47}|Clock_time.csproj|c:\\users\\user\\source\\repos\\clock_time\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BC41A9-C3A8-4D44-B15C-CB36EE060E47}|Clock_time.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BC41A9-C3A8-4D44-B15C-CB36EE060E47}|Clock_time.csproj|c:\\users\\user\\source\\repos\\clock_time\\targil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05BC41A9-C3A8-4D44-B15C-CB36EE060E47}|Clock_time.csproj|solutionrelative:targil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Shabbat\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\Shabbat\\Form2.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Shabbat\\Form2.cs",
+              "RelativeToolTip": "..\\Shabbat\\Form2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:32:34.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Shabbat\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\Shabbat\\Form2.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Shabbat\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\Shabbat\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:32:31.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hostManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Shabbat\\hostManager.cs",
+              "RelativeDocumentMoniker": "..\\Shabbat\\hostManager.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Shabbat\\hostManager.cs",
+              "RelativeToolTip": "..\\Shabbat\\hostManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:07:20.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Shabbat\\DBConnection.cs",
+              "RelativeDocumentMoniker": "..\\Shabbat\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Shabbat\\DBConnection.cs",
+              "RelativeToolTip": "..\\Shabbat\\DBConnection.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:28:10.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Shabbat\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Shabbat\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Shabbat\\Form1.cs",
+              "RelativeToolTip": "..\\Shabbat\\Form1.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAADEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:26:45.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Shabbat\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Shabbat\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Shabbat\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Shabbat\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:26:41.346Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Clock_time\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Clock_time\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:59:35.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "targil.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Clock_time\\targil.cs",
+              "RelativeDocumentMoniker": "targil.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Clock_time\\targil.cs",
+              "RelativeToolTip": "targil.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:33:26.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "targil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Clock_time\\targil.cs",
+              "RelativeDocumentMoniker": "targil.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Clock_time\\targil.cs [Design]",
+              "RelativeToolTip": "targil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:33:05.688Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

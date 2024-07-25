@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Clock_time\bin\Debug\Clock_time.exe.config
+C:\Users\USER\source\repos\Clock_time\bin\Debug\Clock_time.exe
+C:\Users\USER\source\repos\Clock_time\bin\Debug\Clock_time.pdb
+C:\Users\USER\source\repos\Clock_time\obj\Debug\Clock_time.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Clock_time\obj\Debug\Clock_time.Form1.resources
+C:\Users\USER\source\repos\Clock_time\obj\Debug\Clock_time.Properties.Resources.resources
+C:\Users\USER\source\repos\Clock_time\obj\Debug\Clock_time.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Clock_time\obj\Debug\Clock_time.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Clock_time\obj\Debug\Clock_time.exe
+C:\Users\USER\source\repos\Clock_time\obj\Debug\Clock_time.pdb
+C:\Users\USER\source\repos\Clock_time\obj\Debug\Clock_time.ChangePassword.resources
+C:\Users\USER\source\repos\Clock_time\obj\Debug\Clock_time.targil.resources
