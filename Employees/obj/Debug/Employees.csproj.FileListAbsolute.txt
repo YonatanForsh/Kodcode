@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\_Webiks\Employees\bin\Debug\Employees.exe.config
+C:\Users\USER\Desktop\_Webiks\Employees\bin\Debug\Employees.exe
+C:\Users\USER\Desktop\_Webiks\Employees\bin\Debug\Employees.pdb
+C:\Users\USER\Desktop\_Webiks\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\_Webiks\Employees\obj\Debug\Employees.Form1.resources
+C:\Users\USER\Desktop\_Webiks\Employees\obj\Debug\Employees.Properties.Resources.resources
+C:\Users\USER\Desktop\_Webiks\Employees\obj\Debug\Employees.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\_Webiks\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\_Webiks\Employees\obj\Debug\Employees.exe
+C:\Users\USER\Desktop\_Webiks\Employees\obj\Debug\Employees.pdb
